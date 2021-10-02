@@ -49,7 +49,7 @@ namespace Day15_BST_Assignments
 
             if (node.NodeData.Equals(element))
             {
-                Console.WriteLine("Found the element in BST" + " " + node.NodeData);
+                Console.WriteLine("Found the Element in BST" + " " + node.NodeData);
                 result = true;
             }
             else
